@@ -1,0 +1,5 @@
+RUN single_simplex file to view the plots generated in Chapter 3 related to the simplex polynomial
+
+RUN create_B_net to create the 2D figure of Bnet coefficient net.
+
+RUN shuffle_and_save_data to randomly reshuffle the data into 70% training and 20% validation data

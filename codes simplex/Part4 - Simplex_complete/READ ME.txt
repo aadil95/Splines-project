@@ -1,0 +1,5 @@
+RUN simplex_comp_arrangement1 file to view the plots generated in Chapter 4 associated with arrangement 1
+
+RUN simplex_comp_arrangement1 file to view the plots generated in Chapter 4 associated with arrangement 2
+
+RUN shuffle_and_save_data to randomly reshuffle the data into 70% training and 20% validation data
